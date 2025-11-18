@@ -6,10 +6,7 @@ export default function App() {
     <ScrollView style={{ flex: 1 }} contentContainerStyle={styles.container}>
       
       {/* Profile Image */}
-      <Image 
-        source={require('./assets/Vishhhnu.jpg')}
-        style={styles.profileImage}
-      />
+      
 
       {/* Name */}
       <Text style={styles.name}>Vishnu Kumar</Text>

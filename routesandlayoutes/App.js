@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image, Linking, TouchableOpacity, ScrollView } from 'react-native';
-
+import Home from './routesandlayoutes/Home"'
 export default function App() {
   return (
     <ScrollView style={{ flex: 1 }} contentContainerStyle={styles.container}>
